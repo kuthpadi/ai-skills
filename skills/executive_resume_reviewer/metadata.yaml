@@ -1,0 +1,30 @@
+name: Executive Resume Reviewer
+
+version: 0.1.0
+
+category: Career
+
+owner: Shashank Hegde K 
+
+status: Active
+
+description: >
+  Reviews and refines executive resumes for Director,
+  Senior Director, VP, and Enterprise AI/Data leadership roles.
+
+tags:
+  - resume
+  - executive
+  - leadership
+  - ai
+  - analytics
+  - data-science
+  - career
+
+entrypoint: skill.md
+
+artifacts:
+  - skill.md
+  - examples.md
+  - anti_patterns.md
+  - CHANGELOG.md
